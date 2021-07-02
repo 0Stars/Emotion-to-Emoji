@@ -1,0 +1,2 @@
+function ThisIsNotCompleteYet()
+function TheFunctionsOnThisPageAreJustWordsAndNotFunctions()
